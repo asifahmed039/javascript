@@ -26,4 +26,6 @@ console.log(booleanIsLoggedIn);
 let someNumber=44;
 let stringNumber=String(someNumber);
 console.log(typeof(stringNumber));
-console.log(stringNumber);
+ console.log(stringNumber);
+                                //next
+
