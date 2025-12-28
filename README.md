@@ -1,3 +1,3 @@
 #javaScript Code
-<hr>
+Author </br>
 Asif Ahmed
